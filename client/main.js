@@ -5,7 +5,6 @@ const chatContainer = document.querySelector("#chat_container");
 const form = document.querySelector("form")
 
 
-
 async function handleSubmit(e) {
   e.preventDefault();
 
